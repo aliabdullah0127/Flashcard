@@ -72,7 +72,7 @@ async def generate_flashcards(input_data: TextInput):
 if __name__ == "__main__":
     import uvicorn
     uvicorn.run(app, host="localhost", port=8000)
-    react.py = import React, { useState } from "react";
+React.py = import React, { useState } from "react";
 import { motion } from "framer-motion";
 
 export default function FlashcardsApp() {
